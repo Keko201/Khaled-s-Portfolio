@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+title: Security Audit
+img: audit.png
+alt: image-alt
+
+
+project-url:  https://docs.google.com/document/d/1TI8-Pz860Q4P3eRj6-RACYCZaRj2tgMpuMgGsY9-nQg/edit?usp=sharing
+
+description:  learned how to manage and secure file and directory permissions in Linux to enforce proper access control.
