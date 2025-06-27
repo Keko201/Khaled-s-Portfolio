@@ -5,12 +5,11 @@ title: SQL Query
 img: sql.png
 alt: image-alt
 
-# Reminder: Update this link with your own project link
+
 project-url: https://docs.google.com/document/d/1j1j3GUziKmCzPqcjn0SvJ3bVIVXWsiTyvHEtYLFMjLs/edit?usp=sharing
 SQL joins project on coursera: https://www.coursera.org/learn/sql-joins/home/module/1 
 
 
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
 description: I managed to perform two different SQL projects so far that are related to each other. I applied complex SQL queries using INNER JOIN, LEFT JOIN, RIGHT JOIN, SELF JOIN, and CROSS JOIN to extract and relate data across multiple tables effectively.
 Demonstrated proficiency in combining datasets using UNION and UNION ALL, optimizing query results for data analysis and reporting tasks.
 Developed and executed queries to support data cleaning, transformation, and aggregation, showcasing strong problem-solving and relational database skills.
