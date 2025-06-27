@@ -1,2 +1,2 @@
 #posts file contains all projects
-#includes file contains description and skills
+#config.yml has skills and description
