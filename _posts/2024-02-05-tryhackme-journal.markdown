@@ -5,9 +5,9 @@ title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
 
-# Add the link to your journal below
-project-url: 
 
-# Once you've completed your project, update the 'description' below to this one: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+project-url: https://docs.google.com/document/d/1u2Ygxw5X69ea5xSVxQoMfjG3WAY-LckHzU1u2oIZNl4/edit?usp=sharing
+
+
+description: Set to complete 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
 ---
