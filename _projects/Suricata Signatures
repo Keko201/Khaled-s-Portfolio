@@ -1,0 +1,10 @@
+layout: default
+modal-id: 1
+title: Security Audit
+img: audit.png
+alt: image-alt
+
+
+project-url:  https://docs.google.com/document/d/1bfped3TtWk0C41YGZ9tfAmmQ9o6HM0_UZvvLAAX_Khc/edit?usp=sharing
+
+description:  Learned practical experience in running Suricata to create custom rules and run them in Suricata,monitor traffic captured in a packet capture file, and examine the fast.log and eve.json output.
