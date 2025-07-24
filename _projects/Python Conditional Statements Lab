@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+title: Security Audit
+img: audit.png
+alt: image-alt
+
+
+project-url:  https://docs.google.com/document/d/1UDTOXat-ldSGD9Jt8cM_YV1ayifPSBL_juklYQ5Gpt4/edit?usp=sharing
+
+description:  in this lab, you will open a notebook environment to practice writing conditional statements in Python. You’ll be presented with a security scenario to explore throughout the lab. You’ll practice applying conditional statements to automate processes across an organization.
+You have multiple tasks in this lab:
+Write code that determines if a user’s operating system requires an update
+Write code that determines if login attempts were made by approved users and if login attempts occurred during organization hours
