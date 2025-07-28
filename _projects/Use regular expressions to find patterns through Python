@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+title: Security Audit
+img: audit.png
+alt: image-alt
+
+project-url:  https://docs.google.com/document/d/1MjgU4nCoBcqZyRey6eklvM28Cv0HeeIeW7X8PSZhFBs/edit?usp=sharing
+
+description:  Learned regular expressions in Python allow you to create patterns that you can then use to find important strings.
+Regular expression patterns can be built to match specific characters and character combinations.
